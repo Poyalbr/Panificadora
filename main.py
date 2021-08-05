@@ -25,7 +25,6 @@ while(True): # loop infinito
     os.system('clear') #limpa a tela
   elif(opcao == "2"): #senao se
     print("Relatório")
-    dshajkashjkhaskdhkjhdkjashsa
   elif(opcao == "3"):
     print("Sobre")
   elif(opcao == "4"):
